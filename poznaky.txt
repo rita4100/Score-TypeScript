@@ -1,0 +1,2 @@
+cd scoreboard
+npm run dev
